@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "arsenii",
+        "MONGO_PASSWORD": "vehksrf1032",
+        "MONGO_DEFAULT_DATABASE": "node-shop-test",
+        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+    }
+}

@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-10 col-xs-offset-1">
+      <ul class="nav">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"  routerLink="/users" routerLinkActive="active">Users</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <hr>
+  <router-outlet></router-outlet>
+</div>
+

@@ -1,0 +1,8 @@
+:host {
+  padding: 40px;
+}
+
+.active {
+  background-color: #521751;
+  color: white;
+}
