@@ -21,7 +21,7 @@
     "morgan": "~1.9.0",
     "parse-error": "^0.2.0",
     "passport": "^0.4.0",
-    "passport-jwt": "^3.0.0",
+    "passport-jwt": "^4.0.1",
     "serve-favicon": "~2.4.5",
     "validator": "^9.2.0"
   }
